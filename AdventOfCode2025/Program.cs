@@ -5,6 +5,7 @@ using AdventOfCode2025.Day3;
 using AdventOfCode2025.Day4;
 using AdventOfCode2025.Day5;
 using AdventOfCode2025.Day6;
+using AdventOfCode2025.Day7;
 
 var day1 = new Day1();
 var day2 = new Day2();
@@ -21,3 +22,5 @@ Console.WriteLine($"Day 5 Part 1 Answer: {Day5.Day5Part1Answer()}");
 Console.WriteLine($"Day 5 Part 2 Answer: {Day5.Day5Part2Answer()}");
 Console.WriteLine($"Day 6 Part 1 Answer: {Day6.Day6Part1Answer()}");
 Console.WriteLine($"Day 6 Part 2 Answer: {Day6.Day6Part2Answer()}");
+Console.WriteLine($"Day 7 Part 1 Answer: {Day7.Day7Part1Answer()}");
+Console.WriteLine($"Day 7 Part 2 Answer: {Day7.Day7Part2Answer()}");
